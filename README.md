@@ -34,6 +34,8 @@ https://github.com/user/repository?his=1643494560635
 https://github.com/user/repository?pre=1643494560635
 ```
 
+[Here](https://polygonscan.com/tx/0x8144421f118205940c7835499de7e0659434860c96f177a4dd420af555c5186b) is a simple but a fully sufficient history token for *this* visit.
+
 IHT works as a backlink, therefore websites/applications should have a way to handle incoming visits from token owners or their observers. For that purpose, a simple history file contains information for those producing applications that automate IHT creation.
 
 ```url
