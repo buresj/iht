@@ -53,13 +53,15 @@ That way, websites can create specially curated content or provide claims of mea
 
 ```json
 {
-    "standard" : 1,
-    "events": [
-        "tokenUrl" : "",
-        "from": "",
-        "to" : "",
-        "description": ""
-   ]
+  "standard": 1,
+  "events": [
+    {
+      "path": "/*",
+      "from": 1644706547253,
+      "to": 1647195032000,
+      "description": "Age zero"
+    }
+  ]
 }
 ```
 
