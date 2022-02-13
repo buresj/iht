@@ -12,7 +12,7 @@ IHTs do not provide distinctiveness to a digital asset; they capture it. IHT is 
 
 The promise of tokenization of digital space-time is a creation of “cross-website communities” and “ex-post commonality” based on rare or important events without the necessity to leave anonymity. IHT is a web 3.0 intermediary data-layer between the past and the future, providing new creative space for traditional web 1.0/2.0 sites and applications.
 
-## Internet History Token Standard  (v1)
+## Internet History Token Standard (v1)
 
 The following standard provides rules for a self-organizing ecosystem beyond specific technological implementations and attempts to ensure cross-compatibility and continuity.
 
@@ -34,20 +34,22 @@ https://github.com/user/repository?his=1643494560635
 https://github.com/user/repository?pre=1643494560635
 ```
 
-[Here](https://polygonscan.com/tx/0x8144421f118205940c7835499de7e0659434860c96f177a4dd420af555c5186b) is a simple but a fully sufficient history token for *this* visit.
+[Here](https://polygonscan.com/tx/0x8144421f118205940c7835499de7e0659434860c96f177a4dd420af555c5186b) is a simple but a fully sufficient history token for _this_ visit.
 
 IHT works as a backlink, therefore websites/applications should have a way to handle incoming visits from token owners or their observers. For that purpose, a simple history file contains information for those producing applications that automate IHT creation.
 
 ```url
 https://github.com/history.txt
 ```
-The file communicates that any NFT minting service, e.g., browser extension, should use the `pre` parameter when storing the site’s URL. 
+
+The file communicates that any NFT minting service, e.g., browser extension, should use the `pre` parameter when storing the site’s URL.
 
 ```txt
 Parameter: pre
 Descriptions: https://github.com/history.json
 ```
-That way, websites can create specially curated content or provide claims of meaning for specific events on the site. 
+
+That way, websites can create specially curated content or provide claims of meaning for specific events on the site.
 
 ```json
 {
@@ -56,8 +58,8 @@ That way, websites can create specially curated content or provide claims of mea
         "tokenUrl" : "",
         "from": "",
         "to" : "",
-        "description": ""    
-   ] 
+        "description": ""
+   ]
 }
 ```
 
@@ -108,7 +110,7 @@ The value of the IHT can be made evident at the moment of their creation, e.g. w
 
 The price of IHT creation is a factor that creates a strategizing limit on how many IHTs one wishes to produce. It is an incentive for services to provide limited collections for certain unique events if they happen. IHTs make a demand on blockchain but storing memories can provide validity and stability.
 
-Valuable IHTs can be sold and transferred. It opens the capacity for success distribution—buying back early IHTs from my fans or strategizing about purchasing IHT-based promises. 
+Valuable IHTs can be sold and transferred. It opens the capacity for success distribution—buying back early IHTs from my fans or strategizing about purchasing IHT-based promises.
 
 In summary:
 
@@ -117,19 +119,17 @@ In summary:
 3. IHT evaluation of unique or improbable events
 4. IHT strategizing and investment
 
-
 ### Memory and identity
 
 NFT based memberships are a broadly discussed topic. In this case, it is membership-/commonality-based on a unique experience. Services can emerge, enabling users to display "what they have seen," which could be a way to create new communities and give shared meaning to subjective experiences.
 
 URL-time-based identity, similarly to real-world space-time identities (e.g. generations or nationality), produces specific closeness and differentiation. Subcultures can emerge from experiences rather than around topics and preferences.
 
-The collection of IHTs represents a biography. It is a set of collective and individual memories. Surfing the internet is a quest for IHTs, ones that can become famous or unique experiences, stories, and improbable connections. One can hold proof of discovery or innovation. 
+The collection of IHTs represents a biography. It is a set of collective and individual memories. Surfing the internet is a quest for IHTs, ones that can become famous or unique experiences, stories, and improbable connections. One can hold proof of discovery or innovation.
 
-IHT-based social networks would produce circles of varying types of IHT owners. Its upside-down social network, as one consumes the internet through them, emerges as the result of past experiences. 
+IHT-based social networks would produce circles of varying types of IHT owners. Its upside-down social network, as one consumes the internet through them, emerges as the result of past experiences.
 
 A new type of audience emerges from those creating IHTs for the occasion and considering it worth remembering.
-
 
 In summary:
 
